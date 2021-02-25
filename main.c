@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int balance = 2000; // glbal variables
+int balance = 2000; // global variables
 int anotherTransaction = 1;
 int transaction, i;
 
